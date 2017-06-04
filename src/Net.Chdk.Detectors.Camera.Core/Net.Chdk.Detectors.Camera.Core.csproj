@@ -67,6 +67,7 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CameraDetectionException.cs" />
     <Compile Include="ICameraDetector.cs" />
     <Compile Include="IFileCameraDetector.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
